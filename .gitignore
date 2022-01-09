@@ -1,0 +1,7 @@
+MyWebApp/.idea
+MyWebApp/__pycache__
+MyWebApp/venv
+Telegram bot/.idea
+Telegram bot/__pycache__
+Telegram bot/venv
+UI-schedule/.idea
