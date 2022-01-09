@@ -1,16 +1,16 @@
 About repository
 This repository presents my projects for the first semester.
 
-The list of works and the folders in which they are contained
-Calculator
-Calculator
+The list of works and the folders in which they are contained:  
+  
+Calculator:  
+  Calculator
 
-Flask and databases
-MyWebApp
+Flask and databases:  
+  MyWebApp
 
-Shedule telegram bot
-Telegram bot
+Shedule telegram bot:  
+  Telegram bot
 
-Shedule program with UI
-UI-raspisanie
-
+Shedule program with UI:  
+  UI-raspisanie
